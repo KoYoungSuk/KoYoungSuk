@@ -9,9 +9,9 @@ Address: Busan (Former: Yangsan)
 
 Graduated School: Hyoam High School(2018), Silla University Computer Software Enginnering (2022)
 
-Work as Internship in Pine Information Technology. (2022.08 ~ 2022.12) 
+Worked as Internship in Pine Information Technology. (2022.08 ~ 2022.12) 
 
-(Work at SmartFactory Solution based on C# and MSSQL) 
+(Worked at SmartFactory Solution based on C# and MSSQL) 
 
 Personal Coding: Beginned since 2011. 
 
