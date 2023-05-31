@@ -23,3 +23,19 @@ Language: C#/Java/Python/DataBase(SQL) ETC
 
 Tools(IDE): Visual Studio, Eclipse, PyCharm, Anaconda ETC 
 
+## Hobby
+
+Coding 
+
+Hear Music at Youtube(Usually): Classical Music (Usually)
+
+Search Information on Internet: About Computer/Car/Game/Technology (Usually) 
+
+(I don't search bad or controversial information(such as politics). don't misunderstand about this.) 
+
+Mobile Game 
+
+Helping Friend 
+
+Instagram: (My Instagram friends are actually my school friends.)
+
