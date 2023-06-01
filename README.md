@@ -33,6 +33,8 @@ Search Information on Internet: About Computer/Car/Game/Technology (Usually)
 
 (I don't search bad or controversial information(such as politics). don't misunderstand about this.) 
 
+(Also I don't join bad community. My friends are 100% friends that i met offline(School, ETC.)) 
+
 Mobile Game 
 
 Helping Friend 
