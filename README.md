@@ -17,11 +17,11 @@
 
 ## My Main Language/Tools
 
-1. Language: C#/Java/Python/DataBase(SQL) ETC
-
+1. Language: C#(WinForm&WPF)/Java(JSP Servlet)/Python/DataBase(SQL) ETC
+   
    (Coding at Past: Visual Basic(2011~2018)) 
-
-2. Tools(IDE): Visual Studio, Eclipse, PyCharm, Anaconda ETC 
+   
+2. Tools(IDE): Visual Studio, Eclipse, PyCharm, Anaconda, SubLime Text, ETC 
 
 ## Hobby
 
