@@ -5,15 +5,25 @@
 
 1. Birthday: October 3rd, 1999
 
-2. Address: Busan (Former: Yangsan) 
+2. Address: Busan, South Korea (Former: Yangsan, Gyeongsangnam-do, South Korea) 
 
-3. Graduated School: Hyoam High School(2018), Silla University Computer Software Enginnering (2022)
+3. Graduated School:
+   
+   Sinmyeong Elementary School(Graduated at 2012)
 
-   Worked as Internship in Pine Information Technology. (2022.08 ~ 2022.12) 
+   Gaeun Middle School(2012~2015)
+   
+   Hyoam High School(2015~2018) 
+
+   Silla University (Computer Software Enginnering) (2018~2022)
+
+5. Company Internship:
+   
+    Worked as Internship in Pine Information Technology. (2022.08 ~ 2022.12) 
 
    (Worked at SmartFactory Solution based on C# and MSSQL) 
 
-4. Personal Coding: Beginned since 2011. 
+6. Personal Coding: Beginned since 2011. 
 
 ## My Main Language/Tools/Software Environment 
 
