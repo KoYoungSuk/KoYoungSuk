@@ -23,9 +23,9 @@
 
    (Worked at SmartFactory Solution based on C# and MSSQL) 
 
-6. Personal Coding: Beginned since 2011. 
+6. Personal Coding: Beginned since 2011(Elementary School 6th grade). 
 
-## My Main Language/Tools/Software Environment 
+## My Main Language/Framework/Libraries/IDE 
 
 1. Language:
 
@@ -48,39 +48,29 @@
    ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
    ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
-4. Web Browser:
+OTHER TECHONOLGY:
 
-   ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-   ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-   ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+   Visual Basic 6.0/.NET (2011~2018, Before i go to university..) 
 
-5. Operating System:
-
-   ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+   Oracle DataBase 
    
 ## Hobby
 
-1. Coding 
+1. Coding (Personal Project/Study) 
 
 2. Hear Music at Youtube(Usually): Classical Music (Usually)
 
-   ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-   
-4. Search Information on Internet: About Computer/Car/Game/Technology (Usually) 
+3. Search Information on Internet: About Computer/Car/Game/Technology (Usually) 
 
-   (I don't search bad or controversial information(such as politics). don't misunderstand about this.) 
+   (I don't search bad or controversial information. I control my bad curiosity.(very hard!)) 
 
-   (Also I don't join bad community. My friends are 100% friends that i met offline(School, ETC.)) 
+   (Also I don't join bad community. My friends are 100% friends that i met offline(School, University, ETC.)) 
 
-   ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-   
-6. Mobile Game 
+4. Mobile Game 
 
-7. Helping Friend 
+5. Helping Friend 
 
-8. SNS(My SNS Friends are actually offline friends i met at place like school and university.)
+6. SNS(I think you know this, My SNS Friends are actually offline friends i met at place like School and University.)
    
    ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
    ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
