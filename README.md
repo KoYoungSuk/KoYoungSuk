@@ -22,9 +22,17 @@
     Worked as Internship in Pine Information Technology. (2022.08 ~ 2022.12) 
 
    (Worked at SmartFactory Solution based on C# and MSSQL) 
+   
+6. Personal Coding: Beginned since 2011(Elementary School 6th grade).
+   
+   (12 years and still bad at coding. Sorry...)
+   
+   (Actually don't try Other Language except VB) 
 
-6. Personal Coding: Beginned since 2011(Elementary School 6th grade). 
+8. Recently go to Academy with My Friends.
 
+   (Learn Unity for Game Development)
+   
 ## My Main Language/Framework/Libraries/IDE 
 
 1. Language:
@@ -34,20 +42,21 @@
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-2. Framework/Libraries:
+   Unity
+   
+3. Framework/Libraries:
    
    ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
    
-3. Tools(IDE):
+4. Tools(IDE):
 
    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
    ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
    ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-
+   
 OTHER TECHONOLGY:
 
    Visual Basic 6.0/.NET (2011~2018, Before i go to university..) 
@@ -64,12 +73,14 @@ OTHER TECHONOLGY:
 
    (I don't search bad or controversial information. I control my bad curiosity.(very hard!)) 
 
-   (Also I don't join bad community. My friends are 100% friends that i met offline(School, University, ETC.)) 
+   (Also I don't join bad community. My friends are 100% friends that i met offline(School, University, ETC.))
+   
+5. Recently I go academy with my friends.  Learn Unity for Game development.
 
-4. Mobile Game 
+6. Mobile Game (Actually Not popular Games Like LOL or Overwatch, But at least one of my friends play this game. and this is not bad!) 
+  
+7. Helping Friend 
 
-5. Helping Friend 
-
-6. SNS(I think you know this, My SNS Friends are actually offline friends i met at place like School and University.)
+8. SNS(I think you know this, My SNS Friends are actually offline friends i met at place like School and University.)
 
    
