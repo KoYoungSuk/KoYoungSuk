@@ -29,9 +29,7 @@
    
    (Actually don't try Other Language except VB6 and VB.NET) 
 
-8. Recently go to Academy with My Friends.
-
-   (Learn Unity for Game Development)
+8. Recently Behaviour: Make Game with Unity Engine. 
    
 ## My Main Technology 
 
